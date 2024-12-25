@@ -1,4 +1,6 @@
 # Dictionary-App.github.io
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features.
  
 This is the Highseas Dictionary web app built using HTML, CSS and Javascript. it allows users to search for words and get instant definitions, synonyms, pronunciation, and example usage.
 
